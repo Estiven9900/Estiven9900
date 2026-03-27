@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Estiven!
 
-### 🚀 Fullstack Developer | Building things that matter, one commit at a time
+### Fullstack Developer | Building things that matter, one commit at a time
 
 <p>
   Passionate about crafting clean, scalable, and performant web applications.<br/>
