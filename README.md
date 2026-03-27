@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Estiven!
+# 👋 Hey there, I'm Nicolas Estiven Soriano Polania!
 
 ### Fullstack Developer | Building things that matter, one commit at a time
 
